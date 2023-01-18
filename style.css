@@ -2,11 +2,11 @@
 *::after,
 *::before {
   box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 body {
-  background: linear-gradient(to right, #e66465, #9198e5);
+  background: linear-gradient(to bottom, #e66465, #9198e5, #3f49b0);
   display: flex;
   justify-content: center;
   align-items: center;
